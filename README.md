@@ -25,6 +25,12 @@ Below are the steps I would take to rebuild bowiebot in a brand new instance. Yo
 
 `python3.7 -m pip install -U discord.py[voice]`
 
+**Install some dependencies**
+
+`sudo python3.6 -m pip install tinytag`
+
+`sudo python3.6 -m pip install psutil`
+
 **Install opus-tools**
 
 `sudo yum install opus-tools`
