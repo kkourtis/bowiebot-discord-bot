@@ -81,11 +81,19 @@ Enter :q to Quit Vi
 
 `createdb bowiebot`
 
-You will have been given an old backup of the PSQL database. This will strictly be used to generate the schema. This is how you would import it.
+You will have been given an old backup of the PSQL database. This will strictly be used to generate the schema. This is how you would import it. (If you dont have it just ask)
 
 `psql -U bowiebot bowiebot < [dump_name]`
 
 Just msg me if you have questions I prob won't be able to answer but worth a shot.
+
+
+
+After that just slap em with the big ol'
+
+`python3.6 bot.py`
+
+and let your dreams come true.
 
 
 
