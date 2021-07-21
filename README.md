@@ -1,5 +1,5 @@
 # bowiebot-discord-bot
-Discord bot that plays sound clips then leaves the server. If you see this, RIP bowiebot. I no longer want to work on you.
+Discord bot that plays sound clips then leaves the server. If you see this, RIP bowiebot. I no longer want to work on you. It was lazily made with zero regards to best practicing if it existed. This is just for archival purposes but if you wanna do something with it be my guest.
 
 Below are the steps I would take to rebuild bowiebot in a brand new instance. You may need to modify them to fit your system. This was built on a CentOS 7.6 x64 VPS run on a Digital Ocean 1GB RAM, 25GB Storage + 1GB Expandable Storage.
 
